@@ -24,7 +24,9 @@
             <h5 class="display-6">liste des maillot dispo</h5>    
         </div>
         <div class="col-md-10">
-            
+            <div>
+                
+            </div>
         </div>
    </div>
     
